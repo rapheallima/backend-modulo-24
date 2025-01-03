@@ -1,4 +1,4 @@
-# M'odulov 24: Projeto: Contrato Service
+# Módulo 24: Projeto: Contrato Service
 
 Este projeto demonstra a implementação de um serviço simples de gerenciamento de contratos com funcionalidades básicas, como salvar, buscar, excluir e atualizar contratos. Ele utiliza interfaces para abstração e mocks para simulação em testes.
 
